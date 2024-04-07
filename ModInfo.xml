@@ -1,3 +1,3 @@
-<mod displayName="KisuTweaks" unique="KisuTweaks" description="A collection of buffs, tweaks and QoL." installerSystemVersion="1.0.1.0" hasCustomInstaller="true" dllsBuild="2.5.20">
+<mod displayName="KisuTweaks" unique="KisuTweaks" description="A collection of buffs, tweaks and QoL." installerSystemVersion="1.0.1.0" hasCustomInstaller="true" dllsBuild="2.5.20" requiresGalaxyReset="true">
     <prerequisite game="GalacticAdventures">KisuTweaks.package</prerequisite>
 </mod>
