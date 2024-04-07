@@ -3,9 +3,6 @@
 The changelog is pretty huge so let's crack on, shall we!
 
 # Creature Stage
-### General:
-- Extended length of the stage slightly  
-  >📝Creature Stage always felt just a little too short, so we increase it just a little.
 ### Consequence:
 >📝Reduced cooldowns. Let your consequence abilities shine!
 - 🟢**Siren Song**
