@@ -165,8 +165,8 @@ The changelog is pretty huge so let's crack on, shall we!
 ### White Spice:
 >🌺Used in the making of luxurious perfumes.
 - A new extremely rare spice with **4x** the cost of Purple Spice
-- **3%** chance to spawn on Blue Stars on Red/Blue orbits
-- **1.5%** chance to spawn on Red/Yellow Stars on Red/Blue orbits
+- **2%** chance to spawn on Blue Stars on Red/Blue orbits
+- **1%** chance to spawn on Red/Yellow Stars on Red/Blue orbits
 ### Solar System:
 >🚨Requires galaxy reset.
 - Increased min planets in a system from **1** to **3**
