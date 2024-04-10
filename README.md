@@ -1,5 +1,5 @@
 # KisuTweaks
-**A collection of buffs, tweaks and quality of life for all stages of the game *(except Cell Stage)*.**  
+**An overhaul mod that brings in lots of buffs, tweaks and Quality of Life.**  
 The changelog is pretty huge so let's crack on, shall we!
 
 # Creature Stage
@@ -102,7 +102,25 @@ The changelog is pretty huge so let's crack on, shall we!
 - Increased SETI range from **20pc** to **30pc**
 - Removed sculpt and paint tool cooldowns
 - >📝Planet artists rejoice! No more unreasonable cooldowns.
-- **Increased ammo based tool trade offers:**
+- Reduced Cloaking Device cooldown from **4.5min** to **1.5min**
+- Reduced Shield cooldown from **3min** to **1min**
+- Reduced Rally Call cooldown from **1min** to **30s**
+- Reduced Energy Mega Pack cooldown from **10s** to **3s**
+- Removed Energy Pack cooldown
+- Reduced Repair Mega Pack cooldown from **10s** to **3s**
+- Removed Repair Pack cooldown
+- Reduced AoE Repair cooldown from **30s** to **10s**
+- Reduced Colony Incredi-Pak cooldown from **30s** to **10s**
+- Reduced Bio Protector cooldown from **30s** to **10s**
+- Reduced Bio Stabilizer cooldown from **30s** to **10s**
+- Reduced Loyalty Booster cooldown from **30s** to **10s**
+- Reduced Happiness Booster cooldown from **30s** to **10s**
+- Reduced Spice Storage cooldown from **30s** to **10s**
+- Reduced Uber Turret cooldown from **30s** to **10s**
+- Reduced Embassy cooldown from **30s** to **10s**
+
+### Trading:
+- **Increased tool trade offer amounts:**
 	- Colony Incredi-Pak from **2** to **20**
 	- Atmosphere Generator from **2** to **20**
 	- Drought Generator from **2** to **20**
@@ -178,14 +196,14 @@ The changelog is pretty huge so let's crack on, shall we!
 - Removed required empire size for missions
 - Reduced mission prices to **1M**
 - **Reduced mission requirements:**
-	- Bard - Find new rares from **25** to **3**
+	- Bard - Find new rares from **25** to **1**
 	- Diplomat - Form new alliances from **5** to **1**
 	- Ecologist - Fill new ecosystems from **50** to **1**
 	- Scientist - Explore new non-planetary systems from **20** to **1**
-	- Shaman - Paint or sculpt new planets from **150** to **3**
-	- Trader - Sell new items from **5000** to **500**
+	- Shaman - Paint or sculpt new planets from **150** to **1**
+	- Trader - Sell new items from **5000** to **100**
 	- Warrior - Conquer new systems from **20** to **1**
-	- Zealot - Create new colonies from **15** to **3**
+	- Zealot - Create new colonies from **15** to **1**
 ### Archetype Abilities:
 >📝Say goodbye to those nasty cooldown timers!
 - 🟢**Fanatical Frenzy**
