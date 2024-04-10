@@ -79,7 +79,7 @@ The changelog is pretty huge so let's crack on, shall we!
 - Made galaxy transitions faster
 - >📝Zippier going in and out of planets and solar systems!
 ### Consequence:
->📝Yep, that's right. 75% discount for the respected tools, making your empire the cheapest to buy them from!
+>📝Yep, that's right. 75% discount for their respected tools, making your empire the cheapest to buy them from!
 - 🟢**Social Suave**
 	- Increased discount from **20%** to **75%**
 - 🔵**Gentle Generalist**
@@ -120,54 +120,55 @@ The changelog is pretty huge so let's crack on, shall we!
 - Reduced Embassy cooldown from **30s** to **10s**
 
 ### Trading:
-- **Increased tool trade offer amounts:**
-	- Colony Incredi-Pak from **2** to **20**
-	- Atmosphere Generator from **2** to **20**
-	- Drought Generator from **2** to **20**
-	- Meteor Shower from **2** to **20**
-	- Ice Storm from **2** to **20**
-	- Asteroid Call Button from **2** to **20**
-	- Atmosphere Freezer from **2** to **20**
-	- Volcano from **2** to **20**
-	- Ice Comet from **2** to **20**
-	- Energy Mega Pack from **3** to **10**
-	- Energy Pack from **5** to **20**
-	- Repair Mega Pack from **3** to **10**
-	- Repair Pack from **5** to **20**
-	- AOE Repair from **4** to **15**
-	- Bio Protector from **5** to **10**
-	- Bio Stabilizer from **5** to **10**
-	- Loyalty Booster from **5** to **10**
-	- Happiness Booster from **5** to **10**
-	- Spice Storage from **5** to **10**
-	- Uber Turret from **5** to **10**
-	- Embassy from **2** to **10**
-	- Fireworks from **2** to **20**
-	- Monolith from **3** to **10**
-	- Global Mind Erase from **2** to **10**
-	- Species Eradicator from **4** to **10**
-	- Creature Tweaker from **3** to **5**
-	- Supersizer from **2** to **5**
-	- Planet Scan from **2** to **10**
-	- Anti-Matter Bomb from **3** to **10**
-	- Anti-Matter Missile from **10** to **20**
+>📝Increased trade offer amounts!
+- Colony Incredi-Pak from **2** to **20**
+- Atmosphere Generator from **2** to **20**
+- Drought Generator from **2** to **20**
+- Meteor Shower from **2** to **20**
+- Ice Storm from **2** to **20**
+- Asteroid Call Button from **2** to **20**
+- Atmosphere Freezer from **2** to **20**
+- Volcano from **2** to **20**
+- Ice Comet from **2** to **20**
+- Energy Mega Pack from **3** to **10**
+- Energy Pack from **5** to **20**
+- Repair Mega Pack from **3** to **10**
+- Repair Pack from **5** to **20**
+- AOE Repair from **4** to **10**
+- Bio Protector from **5** to **10**
+- Bio Stabilizer from **5** to **10**
+- Loyalty Booster from **5** to **10**
+- Happiness Booster from **5** to **10**
+- Spice Storage from **5** to **10**
+- Uber Turret from **5** to **10**
+- Embassy from **2** to **10**
+- Fireworks from **2** to **20**
+- Monolith from **3** to **10**
+- Global Mind Erase from **2** to **10**
+- Species Eradicator from **4** to **10**
+- Creature Tweaker from **3** to **10**
+- Supersizer from **2** to **10**
+- Planet Scan from **2** to **10**
+- Anti-Matter Bomb from **3** to **10**
+- Anti-Matter Missile from **10** to **20**
 ### Disasters:
 >💡Pair with Green Keeper, Pleasing Performance and Pirates B Gone for even fewer disasters!
 - Reduced biodisaster frequency by **x3**
 - Reduced happiness disaster frequency by **x3**
 - Reduced pirate raid frequency by **x3**
-- Reduced Grox attack frequency by **x3**
-- Reduced war attack frequency by **x3**
+- Reduced Grox tease attack frequency by **x3**
 ### Spice:
 - Increased spice stored per colony from **5** to **10**
 - Increased homeworld spice production from **x0.025** to **x0.25**
 - >📝Better matches the rates of a normal homeworld.
 - Increased max spice bought from **200** to **999**
-- **Added White Spice:**
-	- An extremely rare spice with **3x** the cost of Purple Spice
-	- **2%** chance to spawn on Blue Stars on Red/Blue orbit planets
-	- **1%** chance to spawn on Red/Yellow Stars on Red/Blue orbit planets
+### White Spice:
+>🌺Used in the making of luxurious perfumes.
+- A new extremely rare spice with **4x** the cost of Purple Spice
+- **3%** chance to spawn on Blue Stars on Red/Blue orbits
+- **1.5%** chance to spawn on Red/Yellow Stars on Red/Blue orbits
 ### Solar System:
+>🚨Requires galaxy reset.
 - Increased min planets in a system from **1** to **3**
 - Increased max planets in a system from **5** to **7**
 - Increased planet has moon chance from **1%** to **25%**
@@ -175,12 +176,12 @@ The changelog is pretty huge so let's crack on, shall we!
 - Increased planet has rare chance from **25%** to **40%**
 - Increased max rares on a planet from **1** to **3**
 ### Galactic Core:
+>🚨Requires galaxy reset.
 - Increased travel limit from **3pc** to **5pc**
 - Decreased travel limit radius from **70 - 100pc** to **5 - 50pc**
 - Decreased Grox empire size from **2400** to **300**
-- >📝Greatly reduces the grind and makes it quite achievable.
+- >📝Greatly reduces the grind to destroy and makes it quite achievable.
 - Decreased Grox only radius from **100pc** to **30pc**
-- Reduced penalty for allying with the Grox
 ### Staff of Life:
 >📝A real reward should be eternal.
 - No longer uses ammo, instead drains **100** energy per use
@@ -189,7 +190,6 @@ The changelog is pretty huge so let's crack on, shall we!
 - Reduced price from **5M** to **1M**
 - Increased trade offer amount from **1** to **5**
 - >📝Five times the BOOM!
-- Reduced detection radius from **10pc** to **7pc**
 - Reduced penalty from **-105** to **-60**
 ### Archetype Missions:
 >📝Much, much less grind to switch Archetypes!
@@ -201,14 +201,13 @@ The changelog is pretty huge so let's crack on, shall we!
 	- Ecologist - Fill new ecosystems from **50** to **1**
 	- Scientist - Explore new non-planetary systems from **20** to **1**
 	- Shaman - Paint or sculpt new planets from **150** to **1**
-	- Trader - Sell new items from **5000** to **100**
+	- Trader - Sell new items from **5000** to **50**
 	- Warrior - Conquer new systems from **20** to **1**
 	- Zealot - Create new colonies from **15** to **1**
 ### Archetype Abilities:
 >📝Say goodbye to those nasty cooldown timers!
 - 🟢**Fanatical Frenzy**
 	- Decreased cooldown from **40min** to **5min**
-	- Reduced detection radius from **10pc** to **7pc**
 	- Reduced penalty from **-105** to **-60**
 - 🟢**Cash Infusion**
 	- Decreased cooldown from **20min** to **2min**
@@ -218,7 +217,6 @@ The changelog is pretty huge so let's crack on, shall we!
 	- Decreased cooldown from **10min** to **8s**
 - 🔴**Gravitation Wave**
 	- Decreased cooldown from **20min** to **3min**
-	- Reduced detection radius from **10pc** to **7pc**
 	- Reduced penalty from **-60** to **-30**
 - 🔴**Static Cling**
 	- Decreased cooldown from **20min** to **2min**
