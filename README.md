@@ -44,7 +44,7 @@ The changelog is pretty huge so let's crack on, shall we!
 	- Decreased cooldown from **6min** to **2min**
 - 🔴**Fire Bombs**
 	- Increased damage from **15** to **50**
- - >📝Now does some actually useful damage.
+ - >📝Now does some actually meaningful damage.
 	- Increased range from **15m** to **20m**
 	- Decreased cooldown from **4min** to **30s**
 
@@ -78,6 +78,7 @@ The changelog is pretty huge so let's crack on, shall we!
 - Increased FOV from **60** to **78**
 - Made galaxy transitions faster
 - >📝Zippier going in and out of planets and solar systems!
+- Increased max trade routes from **5** to **10**
 ### Consequence:
 >📝Yep, that's right. 75% discount for their respected tools, making your empire the cheapest to buy them from!
 - 🟢**Social Suave**
@@ -118,7 +119,6 @@ The changelog is pretty huge so let's crack on, shall we!
 - Reduced Spice Storage cooldown from **30s** to **10s**
 - Reduced Uber Turret cooldown from **30s** to **10s**
 - Reduced Embassy cooldown from **30s** to **10s**
-
 ### Trading:
 >📝Increased trade offer amounts!
 - Colony Incredi-Pak from **2** to **20**
@@ -151,12 +151,14 @@ The changelog is pretty huge so let's crack on, shall we!
 - Planet Scan from **2** to **10**
 - Anti-Matter Bomb from **3** to **10**
 - Anti-Matter Missile from **10** to **20**
-### Disasters:
->💡Pair with Green Keeper, Pleasing Performance and Pirates B Gone for even fewer disasters!
-- Reduced biodisaster frequency by **x3**
-- Reduced happiness disaster frequency by **x3**
-- Reduced pirate raid frequency by **x3**
-- Reduced Grox tease attack frequency by **x3**
+### Colonies:
+- Colonies no longer have a chance to get destroyed when captured
+- Removed terrascore building limit
+- >📝Now can place up to **20** buildings as long as planet is T1
+- Reduced House cost by **x10**
+- Reduced Entertainment cost by **x10**
+- Reduced Factory by **x10**
+- Reduced Turret cost by **x10**
 ### Spice:
 - Increased spice stored per colony from **5** to **10**
 - Increased homeworld spice production from **x0.025** to **x0.25**
@@ -191,6 +193,12 @@ The changelog is pretty huge so let's crack on, shall we!
 - Increased trade offer amount from **1** to **5**
 - >📝Five times the BOOM!
 - Reduced penalty from **-105** to **-60**
+### Disasters:
+>💡Pair with Green Keeper, Pleasing Performance and Pirates B Gone for even fewer disasters!
+- Reduced biodisaster frequency by **x3**
+- Reduced happiness disaster frequency by **x3**
+- Reduced pirate raid frequency by **x3**
+- Reduced Grox tease attack frequency by **x3**
 ### Archetype Missions:
 >📝Much, much less grind to switch Archetypes!
 - Removed required empire size for missions
@@ -201,7 +209,7 @@ The changelog is pretty huge so let's crack on, shall we!
 	- Ecologist - Fill new ecosystems from **50** to **1**
 	- Scientist - Explore new non-planetary systems from **20** to **1**
 	- Shaman - Paint or sculpt new planets from **150** to **1**
-	- Trader - Sell new items from **5000** to **50**
+	- Trader - Sell new items from **5000** to **1**
 	- Warrior - Conquer new systems from **20** to **1**
 	- Zealot - Create new colonies from **15** to **1**
 ### Archetype Abilities:
@@ -299,6 +307,10 @@ The changelog is pretty huge so let's crack on, shall we!
 - **Zoologist**
 	- Decreased conditions from **70** to **20**
 	- 1, 3, 6, 10, 20
+### Galactic Adventures:
+- Increased default adventure points from **10** to **100**
+- Set Captain rank point requirements to **100** for every rank
+- >📝Now requires a total of **1000** points (**10** adventures) for max rank
 ### End of the line:
 We have finally reached the end.  
 These are what I now consider essential for my game.  
