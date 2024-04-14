@@ -157,7 +157,7 @@ The changelog is pretty huge so let's crack on, shall we!
 - >📝Now can place up to **20** buildings as long as planet is T1
 - Reduced House cost by **x10**
 - Reduced Entertainment cost by **x10**
-- Reduced Factory by **x10**
+- Reduced Factory cost by **x10**
 - Reduced Turret cost by **x10**
 ### Spice:
 - Increased spice stored per colony from **5** to **10**
