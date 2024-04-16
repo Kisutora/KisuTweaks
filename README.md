@@ -154,7 +154,7 @@ The changelog is pretty huge so let's crack on, shall we!
 ### Colonies:
 - Colonies no longer have a chance to get destroyed when captured
 - Removed terrascore building limit
-- >📝Now can place up to **20** buildings as long as planet is T1
+- >📝Now can place all buildings as long as planet is T1+
 - Reduced House cost by **x10**
 - Reduced Entertainment cost by **x10**
 - Reduced Factory cost by **x10**
@@ -308,7 +308,7 @@ The changelog is pretty huge so let's crack on, shall we!
 	- Decreased conditions from **70** to **20**
 	- 1, 3, 6, 10, 20
 ### Galactic Adventures:
-- Increased default adventure points from **10** to **100**
+- Increased default offline adventure points from **10** to **100**
 - Set Captain rank point requirements to **100** for every rank
 - >📝Now requires a total of **1000** points (**10** adventures) for max rank
 ### End of the line:
