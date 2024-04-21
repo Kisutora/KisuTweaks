@@ -307,10 +307,6 @@ The changelog is pretty huge so let's crack on, shall we!
 - **Zoologist**
 	- Decreased conditions from **70** to **20**
 	- 1, 3, 6, 10, 20
-### Galactic Adventures:
-- Increased default offline adventure points from **10** to **100**
-- Set Captain rank point requirements to **100** for every rank
-- >📝Now requires a total of **1000** points (**10** adventures) for max rank
 ### End of the line:
 We have finally reached the end.  
 These are what I now consider essential for my game.  
