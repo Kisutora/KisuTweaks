@@ -235,18 +235,18 @@ The changelog is pretty huge so let's crack on, shall we!
 ### Badges
 >📝Overall much less grind to unlock crucial features.
 - **Body Guard**
-	- Decreased conditions from **35** to **20**
-	- 1, 3, 6, 10, 20
+	- Decreased conditions from **35** to **10**
+	- 1, 2, 4, 6, 10
 - **Brain Surgeon**
-	- Decreased conditions from **40** to **20**
-	- 1, 3, 6, 10, 20
+	- Decreased conditions from **40** to **10**
+	- 1, 2, 4, 6, 10
 - **Cleaner**
-	- Decreased conditions from **70** to **20**
-	- 1, 3, 6, 10, 20
+	- Decreased conditions from **70** to **10**
+	- 1, 2, 4, 6, 10
 - **Collector**
 	- Level 1 badge now gives **+3** extra cargo capacity
-	- Decreased conditions from **100** to **50**
-	- 1, 5, 10, 25, 50
+	- Decreased conditions from **100** to **30**
+	- 1, 5, 10, 20, 30
 - **Conqueror**
 	- Decreased conditions from **50** to **20**
 	- 1, 3, 6, 10, 20
@@ -263,11 +263,11 @@ The changelog is pretty huge so let's crack on, shall we!
 	- Decreased conditions from **35** to **20**
 	- 2, 4, 6, 10, 20
 - **Explorer**
-	- Decreased conditions from **500** to **100**
-	- 10, 20, 50, 75, 100
+	- Decreased conditions from **500** to **50**
+	- 2, 10, 20, 30, 50
 - **Frequent Flyer**
-	- Decreased conditions from **1500** to **500**
-	- 25, 50, 100, 200, 500
+	- Decreased conditions from **1500** to **100**
+	- 1, 20, 30, 50, 100
 - **Gopher**
 	- Decreased conditions from **70** to **20**
 	- 1, 3, 6, 10, 20
@@ -293,14 +293,14 @@ The changelog is pretty huge so let's crack on, shall we!
 	- Decreased conditions from **40** to **20**
 	- 1, 3, 6, 10, 20
 - **Trader**
-	- Decreased conditions from **40** to **20**
-	- 1, 3, 6, 10, 20
+	- Decreased conditions from **40** to **10**
+	- 1, 2, 4, 6, 10
 - **Traveler**
-	- Decreased conditions from **100** to **50**
-	- 1, 5, 10, 20, 50
+	- Decreased conditions from **100** to **30**
+	- 1, 5, 10, 20, 30
 - **Warmonger**
-	- Increased conditions from **15** to **20**
-	- 1, 3, 6, 10, 20
+	- Decreased conditions from **15** to **10**
+	- 1, 2, 4, 6, 10
 - **Wonderland Wanderer**
 	- Decreased conditions from **12** to **5**
 	- 1, 2, 3, 4, 5
