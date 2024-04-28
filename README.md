@@ -94,71 +94,50 @@ The changelog is pretty huge so let's crack on, shall we!
 - Increased ship speed
 - >💡Pair with Speed Demon for even more speeeeed.
 - Increased abduction beam speed
+- Increased base cargo capacity by **3**
+- >📝Given at the beginning of Space Stage when you get your Captain's Badge.
 - Increased max cargo from **99** to **999**
 - >📝Spice traders rejoice!
 - Increased fleet ship health by **x10**
 ### Tools:
-- Increased Interstellar Drive starting range from **3pc** to **5pc**
-- Increased Interstellar Drive max range from **20pc** to **30pc**
-- Increased SETI range from **20pc** to **30pc**
-- Removed sculpt and paint tool cooldowns
-- >📝Planet artists rejoice! No more unreasonable cooldowns.
-- Reduced Cloaking Device cooldown from **4.5min** to **1.5min**
-- Reduced Shield cooldown from **3min** to **1min**
-- Reduced Rally Call cooldown from **1min** to **30s**
-- Reduced Energy Mega Pack cooldown from **10s** to **3s**
-- Removed Energy Pack cooldown
-- Reduced Repair Mega Pack cooldown from **10s** to **3s**
-- Removed Repair Pack cooldown
-- Reduced AoE Repair cooldown from **30s** to **10s**
 - Reduced Colony Incredi-Pak cooldown from **30s** to **10s**
-- Reduced Bio Protector cooldown from **30s** to **10s**
-- Reduced Bio Stabilizer cooldown from **30s** to **10s**
-- Reduced Loyalty Booster cooldown from **30s** to **10s**
-- Reduced Happiness Booster cooldown from **30s** to **10s**
-- Reduced Spice Storage cooldown from **30s** to **10s**
-- Reduced Uber Turret cooldown from **30s** to **10s**
-- Reduced Embassy cooldown from **30s** to **10s**
+- Removed Sculpting and Coloring tool cooldowns
+- >📝Planet artists rejoice! No more unreasonable cooldowns.
+- Reduced Cloaking Device cooldown from **4.5min** to **2min**
+- Reduced Shield cooldown from **3min** to **1.5min**
 ### Trading:
 >📝Increased trade offer amounts!
-- Colony Incredi-Pak from **2** to **20**
-- Atmosphere Generator from **2** to **20**
-- Drought Generator from **2** to **20**
-- Meteor Shower from **2** to **20**
-- Ice Storm from **2** to **20**
-- Asteroid Call Button from **2** to **20**
-- Atmosphere Freezer from **2** to **20**
-- Volcano from **2** to **20**
-- Ice Comet from **2** to **20**
-- Energy Mega Pack from **3** to **10**
-- Energy Pack from **5** to **20**
-- Repair Mega Pack from **3** to **10**
-- Repair Pack from **5** to **20**
-- AOE Repair from **4** to **10**
-- Bio Protector from **5** to **10**
-- Bio Stabilizer from **5** to **10**
-- Loyalty Booster from **5** to **10**
-- Happiness Booster from **5** to **10**
-- Spice Storage from **5** to **10**
-- Uber Turret from **5** to **10**
-- Embassy from **2** to **10**
-- Fireworks from **2** to **20**
-- Monolith from **3** to **10**
-- Global Mind Erase from **2** to **10**
-- Species Eradicator from **4** to **10**
-- Creature Tweaker from **3** to **10**
-- Supersizer from **2** to **10**
+- Colony Incredi-Pak from **2** to **10**
+- Atmosphere Generator from **2** to **5**
+- Drought Generator from **2** to **5**
+- Meteor Shower from **2** to **5**
+- Ice Storm from **2** to **5**
+- Asteroid Call Button from **2** to **5**
+- Atmosphere Freezer from **2** to **5**
+- Volcano from **2** to **5**
+- Ice Comet from **2** to **5**
+- Energy Mega Pack from **3** to **5**
+- Energy Pack from **5** to **10**
+- Repair Mega Pack from **3** to **5**
+- Repair Pack from **5** to **10**
+- AOE Repair from **4** to **5**
+- Embassy from **2** to **5**
+- Fireworks from **2** to **10**
+- Monolith from **3** to **5**
+- Global Mind Erase from **2** to **5**
+- Species Eradicator from **4** to **5**
+- Creature Tweaker from **3** to **5**
+- Supersizer from **2** to **5**
 - Planet Scan from **2** to **10**
-- Anti-Matter Bomb from **3** to **10**
-- Anti-Matter Missile from **10** to **20**
+- Anti-Matter Bomb from **3** to **5**
 ### Colonies:
 - Colonies no longer have a chance to get destroyed when captured
 - Removed terrascore building limit
 - >📝Now can place all buildings as long as planet is T1+
-- Reduced House cost by **x10**
-- Reduced Entertainment cost by **x10**
-- Reduced Factory cost by **x10**
-- Reduced Turret cost by **x10**
+- Reduced House cost by **x8**
+- Reduced Entertainment cost by **x8**
+- Reduced Factory cost by **x8**
+- Reduced Turret cost by **x8**
 ### Spice:
 - Increased spice stored per colony from **5** to **10**
 - Increased homeworld spice production from **x0.025** to **x0.25**
@@ -166,7 +145,7 @@ The changelog is pretty huge so let's crack on, shall we!
 - Increased max spice bought from **200** to **999**
 ### White Spice:
 >🌺Used in the making of luxurious perfumes.
-- A new extremely rare spice with **4x** the cost of Purple Spice
+- A new extremely rare spice with **2x** the cost of Purple Spice
 - **2%** chance to spawn on Blue Stars on Red/Blue orbits
 - **1%** chance to spawn on Red/Yellow Stars on Red/Blue orbits
 ### Solar System:
@@ -179,11 +158,10 @@ The changelog is pretty huge so let's crack on, shall we!
 - Increased max rares on a planet from **1** to **3**
 ### Galactic Core:
 >🚨Requires galaxy reset.
-- Increased travel limit from **3pc** to **5pc**
-- Decreased travel limit radius from **70 - 100pc** to **5 - 50pc**
 - Decreased Grox empire size from **2400** to **300**
 - >📝Greatly reduces the grind to destroy and makes it quite achievable.
 - Decreased Grox only radius from **100pc** to **30pc**
+- Decreased travel limit radius from **70 - 100pc** to **25 - 35pc**
 ### Staff of Life:
 >📝A real reward should be eternal.
 - No longer uses ammo, instead drains **100** energy per use
@@ -195,10 +173,10 @@ The changelog is pretty huge so let's crack on, shall we!
 - Reduced penalty from **-105** to **-60**
 ### Disasters:
 >💡Pair with Green Keeper, Pleasing Performance and Pirates B Gone for even fewer disasters!
-- Reduced biodisaster frequency by **x3**
-- Reduced happiness disaster frequency by **x3**
-- Reduced pirate raid frequency by **x3**
-- Reduced Grox tease attack frequency by **x3**
+- Reduced biodisaster frequency by **x2**
+- Reduced happiness disaster frequency by **x2**
+- Reduced pirate raid frequency by **x2**
+- Reduced Grox tease attack frequency by **x2**
 ### Archetype Missions:
 >📝Much, much less grind to switch Archetypes!
 - Removed required empire size for missions
@@ -215,100 +193,89 @@ The changelog is pretty huge so let's crack on, shall we!
 ### Archetype Abilities:
 >📝Say goodbye to those nasty cooldown timers!
 - 🟢**Fanatical Frenzy**
-	- Decreased cooldown from **40min** to **5min**
+	- Decreased cooldown from **40min** to **20min**
 	- Reduced penalty from **-105** to **-60**
 - 🟢**Cash Infusion**
-	- Decreased cooldown from **20min** to **2min**
+	- Decreased cooldown from **20min** to **10min**
 - 🟢**Soothing Song**
-	- Decreased cooldown from **10min** to **2min**
+	- Decreased cooldown from **10min** to **2.5min**
 - 🔵**Safari Vacuum**
-	- Decreased cooldown from **10min** to **8s**
+	- Decreased cooldown from **10min** to **10s**
 - 🔴**Gravitation Wave**
-	- Decreased cooldown from **20min** to **3min**
+	- Decreased cooldown from **20min** to **10min**
 	- Reduced penalty from **-60** to **-30**
 - 🔴**Static Cling**
-	- Decreased cooldown from **20min** to **2min**
+	- Decreased cooldown from **20min** to **2.5min**
 - 🔴**Summon Mini-U**
 	- Increased health by **x10**
 - 🔴**Raider Rally**
-	- Decreased cooldown from **20min** to **30s**
-### Badges
+	- Decreased cooldown from **20min** to **1min**
+### Badges:
 >📝Overall much less grind to unlock crucial features.
 - **Body Guard**
-	- Decreased conditions from **35** to **10**
-	- 1, 2, 4, 6, 10
+	- Decreased conditions from **35** to **15**
+	- 1, 3, 6, 10, 15
 - **Brain Surgeon**
-	- Decreased conditions from **40** to **10**
-	- 1, 2, 4, 6, 10
+	- Decreased conditions from **40** to **15**
+	- 1, 3, 6, 10, 15
 - **Cleaner**
-	- Decreased conditions from **70** to **10**
-	- 1, 2, 4, 6, 10
-- **Collector**
-	- Level 1 badge now gives **+3** extra cargo capacity
-	- Decreased conditions from **100** to **30**
-	- 1, 5, 10, 20, 30
+	- Decreased conditions from **70** to **15**
+	- 1, 3, 6, 10, 15
 - **Conqueror**
 	- Decreased conditions from **50** to **20**
 	- 1, 3, 6, 10, 20
 - **Diplomat**
-	- Decreased conditions from **20** to **10**
-	- 1, 2, 4, 6, 10
+	- Decreased conditions from **20** to **15**
+	- 1, 3, 6, 10, 15
 - **Eco Hero**
-	- Decreased conditions from **50** to **5**
-	- 1, 2, 3, 4, 5
-- **Economist**
-	- Decreased conditions from **15** to **10**
-	- 1, 2, 4, 6, 10
+	- Decreased conditions from **50** to **15**
+	- 1, 3, 6, 10, 15
 - **Empire**
-	- Decreased conditions from **35** to **20**
-	- 2, 4, 6, 10, 20
+	- Decreased conditions from **35** to **30**
+	- 3, 6, 10, 15, 30
 - **Explorer**
-	- Decreased conditions from **500** to **50**
-	- 2, 10, 20, 30, 50
+	- Decreased conditions from **500** to **250**
+	- 25, 50, 100, 150, 250
 - **Frequent Flyer**
-	- Decreased conditions from **1500** to **100**
-	- 1, 20, 30, 50, 100
+	- Decreased conditions from **1500** to **1000**
+	- 50, 100, 200, 500, 1000
+- **Golden Touch**
+	- Increased conditions from **10M** to **100M**
+	- 1M, 5M, 10M, 50M, 100M
 - **Gopher**
-	- Decreased conditions from **70** to **20**
-	- 1, 3, 6, 10, 20
-- **Jack Of All Trades**
-	- Decreased conditions from **200** to **200**
-	- 1, 20, 50, 100, 200
+	- Decreased conditions from **70** to **15**
+	- 1, 3, 6, 10, 15
 - **Merchant**
-	- Decreased conditions from **15M** to **10M**
-	- 225, 500,000, 1M, 5M, 10M
+	- Increased conditions from **15M** to **50M**
+	- 500,000, 1M, 5M, 10M, 50M
 - **Missionista**
-	- Decreased conditions from **50** to **20**
-	- 1, 5, 10, 15, 20
+	- Decreased conditions from **50** to **30**
+	- 3, 6, 10, 15, 30
 - **Planet Artiste**
-	- Decreased conditions from **250** to **20**
-	- 1, 3, 6, 10, 20
+	- Decreased conditions from **250** to **100**
+	- 3, 10, 20, 50, 100
 - **Sightseer**
-	- Decreased conditions from **70** to **20**
-	- 1, 3, 6, 10, 20
+	- Decreased conditions from **70** to **30**
+	- 3, 6, 10, 15, 30
 - **Split Personality**
 	- Decreased conditions from **6** to **5**
 	- 1, 2, 3, 4, 5
 - **Terra-Wrangler**
+	- Decreased conditions from **40** to **30**
+	- 3, 6, 10, 15, 30
+- **Trader**
 	- Decreased conditions from **40** to **20**
 	- 1, 3, 6, 10, 20
-- **Trader**
-	- Decreased conditions from **40** to **10**
-	- 1, 2, 4, 6, 10
 - **Traveler**
-	- Decreased conditions from **100** to **30**
-	- 1, 5, 10, 20, 30
-- **Warmonger**
-	- Decreased conditions from **15** to **10**
-	- 1, 2, 4, 6, 10
+	- Decreased conditions from **100** to **50**
+	- 3, 6, 10, 20, 50
 - **Wonderland Wanderer**
 	- Decreased conditions from **12** to **5**
 	- 1, 2, 3, 4, 5
 - **Zoologist**
-	- Decreased conditions from **70** to **20**
-	- 1, 3, 6, 10, 20
+	- Decreased conditions from **70** to **30**
+	- 3, 6, 10, 15, 30
 ### End of the line:
 We have finally reached the end.  
-These are what I now consider essential for my game.  
-I hope you find this useful in any way. Feel free to dig around the code!  
+These are what I now consider essential for my game.   
 Cheers! 🥳
