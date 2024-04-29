@@ -247,7 +247,7 @@ The changelog is pretty huge so let's crack on, shall we!
 	- 1, 3, 6, 10, 15
 - **Merchant**
 	- Increased conditions from **15M** to **50M**
-	- 500,000, 1M, 5M, 10M, 50M
+	- 500K, 1M, 5M, 10M, 50M
 - **Missionista**
 	- Decreased conditions from **50** to **30**
 	- 3, 6, 10, 15, 30
