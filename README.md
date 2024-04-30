@@ -180,10 +180,10 @@ The changelog is pretty huge so let's crack on, shall we!
 - Reduced penalty from **-105** to **-60**
 ### Disasters:
 >💡Pair with Green Keeper, Pleasing Performance and Pirates B Gone for even fewer disasters!
-- Reduced biodisaster frequency by **1.5x**
-- Reduced happiness disaster frequency by **1.5x**
-- Reduced pirate raid frequency by **1.5x**
-- Reduced Grox tease attack frequency by **1.5x**
+- Reduced biodisaster frequency by **50%**
+- Reduced happiness disaster frequency by **50%**
+- Reduced pirate raid frequency by **50%**
+- Reduced Grox tease attack frequency by **50%**
 ### Archetype Missions:
 >📝Much, much less grind to switch Archetypes!
 - Removed required empire size for missions
