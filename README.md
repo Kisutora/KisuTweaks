@@ -147,9 +147,9 @@ The changelog is pretty huge so let's crack on, shall we!
 - Reduced Factory cost from **19.2K** to **12K**
 - Reduced Turret cost from **16K** to **10K**
 ### Spice:
-- Increased spice production by **1.5x**
+- Increased spice production by **50%**
 - Increased spice stored per colony from **5** to **15**
-- Increased homeworld spice production from **x0.025** to **x0.25**
+- Increased homeworld spice production from **0.025** to **0.25**
 - >📝Better matches the rates of a normal homeworld.
 - Increased max spice bought from **200** to **999**
 ### White Spice:
