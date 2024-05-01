@@ -1,10 +1,12 @@
-# KisuTweaks
+# Kisu⚙️Tweaks
+
 **An overhaul mod that brings in lots of buffs, tweaks and Quality of Life.**  
 The changelog is pretty huge so let's crack on, shall we!
 
 # Creature Stage
-### Consequence:
->📝Reduced cooldowns. Let your consequence abilities shine!
+
+## 🪬Consequence
+>⏱️Reduced cooldowns. Let your consequence abilities shine!
 - 🟢**Siren Song**
 	- Increased range from **25m** to **30m**
 	- Decreased cooldown from **5min** to **1min**
@@ -16,13 +18,15 @@ The changelog is pretty huge so let's crack on, shall we!
 	- Decreased cooldown from **4min** to **1min**
 
  # Tribal Stage
- ### General:
+ 
+ ## 🖊️General
 - Removed hunger drain
-- >📝One less thing to worry about. Lets you focus on more important things, like trying out the new improved abilities!
+- >📝One less thing to worry about.
 - Decreased chieftain respawn time from **90s** to **60s**
 - Decreased baby grow time from **60s** to **30s**
-### Consequence:
->📝Reduced cooldowns and massive range buffs. Let your consequence abilities shine!
+
+## 🪬Consequence
+>⏱️Reduced cooldowns and massive range buffs. Let your consequence abilities shine!
 - 🟢**Refreshing Storm**
 	- Increased range from **20m** to **60m**
 	- Decreased cooldown from **5min** to **2min**
@@ -49,8 +53,9 @@ The changelog is pretty huge so let's crack on, shall we!
 	- Decreased cooldown from **4min** to **1min**
 
 # Civilization Stage
-### Consequence:
->📝Removed cooldowns. Money is power!
+
+## 🪬Consequence
+>💸Removed cooldowns. Money is power!
 - 🟢**Healing Aura**
 	- Removed cooldown
 - 🔵**Static Bomb**
@@ -74,13 +79,15 @@ The changelog is pretty huge so let's crack on, shall we!
 	- Increased range from **95m** to **100m**
 
 # Space Stage
-### General:
+
+## 🖊️General
 - Increased FOV from **60** to **78**
 - Made galaxy transitions faster
 - >📝Zippier going in and out of planets and solar systems!
 - Increased max trade routes from **5** to **10**
-### Consequence:
->📝Yep, that's right. 75% discount for their respected tools, making your empire the cheapest to buy them from!
+
+## 🪬Consequence
+>🎫Yep, that's right. 75% discount for their respected tools, making your empire the cheapest to buy them from!
 - 🟢**Social Suave**
 	- Increased discount from **20%** to **75%**
 - 🔵**Gentle Generalist**
@@ -89,21 +96,39 @@ The changelog is pretty huge so let's crack on, shall we!
 	- Increased discount from **20%** to **75%**
 - 🔴**Arms Dealer**
 	- Increased discount from **20%** to **75%**
-### Ship:
+
+## 🛸Ship
 - Increased ship size
 - Increased ship speed
 - >💡Pair with Speed Demon for even more speeeeed.
 - Increased abduction beam speed
-- Increased base cargo capacity by **3**
-- >📝Given at the beginning of Space Stage when you get your Captain's Badge.
-- Increased max cargo from **99** to **999**
-- >📝Spice traders rejoice!
 - Increased fleet ship health by **10x**
-### Tools:
-- Removed Sculpting and Coloring tool cooldowns
-- >📝Planet artists rejoice! No more unreasonable cooldowns.
-- Reduced Cloaking Device cooldown from **4.5min** to **2min**
-- Reduced Shield cooldown from **3min** to **1.5min**
+
+## 🎒Cargo Upgrades
+- Increased base cargo capacity by **7**
+- >📝Given at the beginning of Space Stage when you get your Captain's Badge.
+- Increased max stack size from **99** to **999**
+- >📝Spice traders rejoice!
+- **Introducing 2 new cargo upgrades!**
+- >📝With all upgrades total capacity jumps to **42** (or **3** pages).
+
+### How to aquire:
+- **Collector 1 / Merchant 1**
+	- Basic Cargo Hold **100K**
+- **Collector 2 / Merchant 2**
+	- Small Cargo Hold **200K**
+- **Collector 3 / Merchant 3**
+	- Medium Cargo Hold **300K**
+- **Collector 4 / Merchant 4**
+	- Large Cargo Hold **400K**
+- **Collector 5 / Merchant 5**
+	- Extreme Cargo Hold **500K**
+
+## 🛠️Tools
+- Reduced Cloaking Device cooldown from **4.5min** to **2.5min**
+- >⏱️Effective cooldown of **1min**.
+- Reduced Shield cooldown from **3min** to **2min**
+- >⏱️Effective cooldown of **1min**.
 - Reduced Colony Incredi-Pak cooldown from **30s** to **10s**
 - Reduced Bio Protector cooldown from **30s** to **10s**
 - Reduced Bio Stabilizer cooldown from **30s** to **10s**
@@ -113,8 +138,8 @@ The changelog is pretty huge so let's crack on, shall we!
 - Reduced Uber Turret cooldown from **30s** to **10s**
 - Reduced Embassy cooldown from **30s** to **10s**
 
-### Trading:
->📝Increased trade offer amounts!
+## 💱Trading
+>💰Increased trade offer amounts!
 - Colony Incredi-Pak from **2** to **10**
 - Atmosphere Generator from **2** to **5**
 - Drought Generator from **2** to **5**
@@ -138,53 +163,90 @@ The changelog is pretty huge so let's crack on, shall we!
 - Supersizer from **2** to **10**
 - Planet Scan from **2** to **10**
 - Anti-Matter Bomb from **3** to **5**
-### Colonies:
+
+## 🎨Sculpting & Coloring
+- Removed Sculpting and Coloring tool cooldowns
+- >🎉Planet artists rejoice! No more unreasonable cooldowns.
+ - **Introducing 8 new trade bundles that give you sculpting and coloring tools!**
+
+### How to aquire:
+- **Planet Artiste 1 / Explorer 1**
+	- Coloring Bundle **1M**
+	- >🖌️Includes all coloring tools.
+	- Sculpting Bundle **250K**
+	- >🧱Includes all basic sculpting tools.
+	- Terra Bundle **500K**
+- **Planet Artiste 2 / Explorer 2**
+	- Gear Bundle **500K**
+	- Cute Bundle **500K**
+	- Crystal Bundle **500K**
+- **Planet Artiste 3 / Explorer 3**
+	- Tentacle Bundle **500K**
+	- Chocolate Bundle **500K**
+
+## 🏙️Colonies
 - Colonies no longer have a chance to get destroyed when captured
 - Removed terrascore building limit
-- >📝Now can place all buildings as long as planet is T1+
+- >🏭Now can place all buildings as long as planet is T1+
 - Reduced House cost from **25.6K** to **16K**
 - Reduced Entertainment cost from **12.8K** to **8K**
 - Reduced Factory cost from **19.2K** to **12K**
 - Reduced Turret cost from **16K** to **10K**
-### Spice:
+
+## 🌸Spice
 - Increased spice production by **50%**
 - Increased spice stored per colony from **5** to **15**
 - Increased homeworld spice production from **0.025** to **0.25**
-- >📝Better matches the rates of a normal homeworld.
+- >📈Better matches the rates of a normal homeworld.
 - Increased max spice bought from **200** to **999**
-### White Spice:
+
+## 💮White Spice
 >🌺Used in the making of luxurious perfumes.
 - A new extremely rare spice with **2x** the cost of Purple Spice
 - **2%** chance to spawn on Blue Stars on Red/Blue orbits
 - **1%** chance to spawn on Red/Yellow Stars on Red/Blue orbits
-### Solar System:
->🚨Requires galaxy reset.
-- Increased planet has moon chance from **1%** to **10%**
-- Increased planet has rings chance from **10%** to **25%**
-- Increased planet has rare chance from **25%** to **40%**
+
+## 💎Rares
+- Increased rare chance from **25%** to **35%**
 - Increased max rares on a planet from **1** to **3**
-### Galactic Core:
+- Increased rare prices by approx. **2.2x**
+- >✨A great source of sporebucks, especially early game!
+	- **22.5K** to **50K**
+	- **45K** to **100K**
+	- **67.5K** to **150K**
+	- etc.
+
+## 🪐Solar System
+>🚨Requires galaxy reset.
+- Increased planet moon chance from **1%** to **10%**
+- Increased planet rings chance from **10%** to **25%**
+
+## 🌌Galactic Core
 >🚨Requires galaxy reset.
 - Decreased Grox empire size from **2400** to **300**
 - >📝Greatly reduces the grind to destroy and makes it quite achievable.
 - Decreased Grox only radius from **100pc** to **30pc**
 - Decreased travel limit radius from **70 - 100pc** to **25 - 35pc**
-### Staff of Life:
->📝A real reward should be eternal.
+
+## 🌱Staff of Life
+>♾️A real reward should be eternal.
 - No longer uses ammo, instead drains **100** energy per use
 - Decreased cooldown from **2min** to **1min**
-### Planet Buster:
+
+## 💥Planet Buster
 - Reduced price from **5M** to **1M**
 - Increased trade offer amount from **1** to **5**
-- >📝Five times the BOOM!
+- >🧨Five times the BOOM!
 - Reduced penalty from **-105** to **-60**
-### Disasters:
+
+## 🏴‍☠️Disasters
 >💡Pair with Green Keeper, Pleasing Performance and Pirates B Gone for even fewer disasters!
 - Reduced biodisaster frequency by **50%**
 - Reduced happiness disaster frequency by **50%**
 - Reduced pirate raid frequency by **50%**
 - Reduced Grox tease attack frequency by **50%**
-### Archetype Missions:
+
+## 🧾Archetype Missions
 >📝Much, much less grind to switch Archetypes!
 - Removed required empire size for missions
 - Reduced mission prices to **1M**
@@ -197,27 +259,30 @@ The changelog is pretty huge so let's crack on, shall we!
 	- Trader - Sell new items from **5000** to **100**
 	- Warrior - Conquer new systems from **20** to **1**
 	- Zealot - Create new colonies from **15** to **1**
-### Archetype Abilities:
->📝Say goodbye to those nasty cooldown timers!
+
+## 🌠Archetype Abilities
+>⏱️Say goodbye to those nasty cooldown timers!
 - 🟢**Fanatical Frenzy**
 	- Decreased cooldown from **40min** to **20min**
 	- Reduced penalty from **-105** to **-60**
 - 🟢**Cash Infusion**
 	- Decreased cooldown from **20min** to **10min**
 - 🟢**Soothing Song**
-	- Decreased cooldown from **10min** to **2.5min**
+	- Decreased cooldown from **10min** to **2min**
 - 🔵**Safari Vacuum**
 	- Decreased cooldown from **10min** to **10s**
 - 🔴**Gravitation Wave**
 	- Decreased cooldown from **20min** to **10min**
 	- Reduced penalty from **-60** to **-30**
 - 🔴**Static Cling**
-	- Decreased cooldown from **20min** to **2.5min**
+	- Decreased cooldown from **20min** to **3min**
+	- >⏱️Effective cooldown of **1min**.
 - 🔴**Summon Mini-U**
 	- Increased health by **10x**
 - 🔴**Raider Rally**
 	- Decreased cooldown from **20min** to **1min**
-### Badges:
+
+## 🏆Badges
 >📝Overall much less grind to unlock crucial features.
 - **Body Guard**
 	- Decreased conditions from **35** to **15**
@@ -228,6 +293,9 @@ The changelog is pretty huge so let's crack on, shall we!
 - **Cleaner**
 	- Decreased conditions from **70** to **15**
 	- 1, 3, 6, 10, 15
+- **Collector**
+	- Decreased conditions from **100** to **50**
+	- 3, 6, 10, 20, 50
 - **Conqueror**
 	- Decreased conditions from **50** to **20**
 	- 1, 3, 6, 10, 20
@@ -253,8 +321,8 @@ The changelog is pretty huge so let's crack on, shall we!
 	- Decreased conditions from **70** to **15**
 	- 1, 3, 6, 10, 15
 - **Merchant**
-	- Increased conditions from **15M** to **50M**
-	- 500K, 1M, 5M, 10M, 50M
+	- Increased conditions from **15M** to **20M**
+	- 500K, 1M, 5M, 10M, 20M
 - **Missionista**
 	- Decreased conditions from **50** to **30**
 	- 3, 6, 10, 15, 30
@@ -282,7 +350,8 @@ The changelog is pretty huge so let's crack on, shall we!
 - **Zoologist**
 	- Decreased conditions from **70** to **30**
 	- 3, 6, 10, 15, 30
-### End of the line:
+
+## End of the line:
 We have finally reached the end.  
 These are what I now consider essential for my game.   
 Cheers! 🥳
