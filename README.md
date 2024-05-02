@@ -21,7 +21,7 @@ The changelog is pretty huge so let's crack on, shall we!
  
  ## 🖊️General
 - Removed hunger drain
-- >📝One less thing to worry about.
+- >📝One less thing to worry about. No more buggy conga lines!
 - Decreased chieftain respawn time from **90s** to **60s**
 - Decreased baby grow time from **60s** to **30s**
 
