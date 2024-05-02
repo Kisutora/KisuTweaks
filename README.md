@@ -109,7 +109,7 @@ The changelog is pretty huge so let's crack on, shall we!
 - >📝Given at the beginning of Space Stage when you get your Captain's Badge.
 - Increased max stack size from **99** to **999**
 - >📝Spice traders rejoice!
-- **Introducing 2 new cargo upgrades!**
+- **Added 2 new cargo upgrades!**
 - >📝With all upgrades total capacity jumps to **42** (or **3** pages).
 
 ### How to aquire:
@@ -167,7 +167,7 @@ The changelog is pretty huge so let's crack on, shall we!
 ## 🎨Sculpting & Coloring
 - Removed Sculpting and Coloring tool cooldowns
 - >🎉Planet artists rejoice! No more unreasonable cooldowns.
- - **Introducing 8 new trade bundles that give you sculpting and coloring tools!**
+ - **Added 8 new trade bundles that give you sculpting and coloring tools!**
 
 ### How to aquire:
 - **Planet Artiste 1 / Explorer 1**
